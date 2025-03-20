@@ -1,0 +1,105 @@
+Format of AI generated report🙁10-15 pages max report)
+Page 1/2:
+
+Exchange traded on:
+Ticker price:
+Summary (Concise summary of total report. Summary of entire report in brief - in one-two pages.
+
+About Company:
+Management Team/
+Products/ Services: ----
+
+Page 3: Fundamental Analysis (one page long - we can remove or add to fill info) - usually most sites show this.
+
+P/E ratio:
+Quarterly Revenue:
+Yealy Revenue:
+Ex dividend date:
+yield %:
+Profit/ Loss per Qtr:
+Profit/ Loss per Year:
+Market Cap:
+
+Page 4: Technical Analysis: (1 page max):
+MACD, RSI and 50/200 days moving average/VWAP, bollinger analysis. These are at minimum. We will do graph/ charts later in next phase as visual changes.
+
+Page 5: Things you must know about this company/ETF/ Mutual Fund/trends/products:
+
+(one page showing 5 paragraphs) - Usually Q&A in earning call shows main issues one should know.
+LLY has mounjaro development, tesla has EV/ Chinese competetion, NVDA has AI as main item for example.
+1.
+2.
+3.
+4.
+5.
+
+Page 6/7/8/9: Last Earnings report🙁3-5 pages) - transcript link here or in reference. This won't be in mutual funds or ETFs.
+
+Here user doesn't need to see earning report for a stock from a comopany or attend an earning call and s/he gets to know all.
+All questions asked/ by who/ answers and all. Usually these quesrtions form what investors must know.
+like NVDA will talk about AI demand/ tesla will have information about china demand/ cost of making and or robotaxi porogress while LLY may have information regarding GLP-1 for weigntloss and diabetes (Mounjaro launch).
+Make sure earning report is latest.. no one cares about 2023 in 2024 for now and Q1 2024 for that matter.
+
+- Press release summary from company: - One page - Link of a press release and Summary of entire report in one page - 5+ paragraphs. Company site has earning report every quarte usually.
+Yahoo FInnace / Seeking Alpha/ Mornking Star may have complete transcript too.
+- Earning call summary/transcript - Link - one page - Summary covering who was present from companyh and from investor houses and what did they talk about? How meeting went?
+Purpose is for investor/ user to feel they got information without attending.
+- Questions and answers covered - Summary - Around first 8 questions in any call usually. Cover 1+ page
+
+- Stock price before earning / after (last 3 years only)
+Qtr year, Earning Date, Beat/ Met Expectations, Price as of 3 days before/ price on earning date/ Price after earning Report
+...
+...
+...
+
+Page 10:
+Analysts coverage🙁one page - This gives information how industry views it
+1. Price target $: Who (Analyst Name/ Company). Ratings (Buy/ Sell/ Neutral/ Overweight, etc).
+2. price target: Who. Ratings
+3. Price target who ratings
+4. Price target who ratings
+5. Price target who ratings
+6.
+7.
+8.
+9.
+10. Max 10. Min. 5.
+
+Pagw 11/12/13:
+
+Research Articles- Links and synopsis/ Summary - Basically here we are saving time by showing what user would have found out from research. I cover as an investor 5 sites and if we can show 10+it will be awesome.
+Some sites are paid so useer has to subscribe.. I can subscribe for our reports. Not sure we need API access from these sites.
+
+Show URL for user about a researh/ Clickable Link: in case user wants to see original report. Summary in 1-2 paragrpahs (what was research about in case user doesn't go an read original link.). Total 3-4 pages. For now URL from any
+site is good.. Later we can use paid sites/ APIs to go to pai sites for research
+1.
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Page 14/15:
+References: 1-2 pages (Whatever URLs/ links this report used. Be inclusive even if list is long. Free for now is better but I can get APIs/paid subscription too.
+
+1. Seeking Alpha - Search "Seeking Alpha article on TSLA/ NVDA/QCOM/ LLY" for example.
+2. Morning Star
+3. Yahoo Finance
+4. Motley Fool
+5. Investopedia
+6. Zacks
+7. Barrons (paid?)
+8. Wall Street Journal (Paid??)
+9. Financial Times (Pai??)
+10. Td Ameritrade/ Schwab Research (post login - I can give login/ password).
+11. Earning report / company Website.
+12. â¦
+13. â¦
+14. â¦
+15. â¦
+
+Company will have earning report / qurterly so earning call must be there.. In MF/ETF those 4 pages can be something else or gone.

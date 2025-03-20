@@ -1,0 +1,16 @@
+langchain_groq
+langchain_openai
+langchain_community
+langchain_core
+python-dotenv
+bs4
+yfinance
+markdown_pdf
+wikipedia
+markdown
+pdfkit
+tavily-python
+wkhtmltopdf
+serpapi
+python-dotenv
+markdown2

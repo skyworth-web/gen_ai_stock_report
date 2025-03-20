@@ -1,0 +1,14 @@
+Extract zip file into new folder. 
+Donwload anaconda from google
+then you will find anaconda prompt on your system
+open it and navigate to the folder with the code.
+copy command and run:
+conda create -p venv python==3.12 
+Then press y to confirm.
+Run the command:
+conda activate ./venv
+Then copy this command and run:
+pip install -r requirements.txt
+Then install wkhtmltopdf for google, according to operating system
+Then after installing, run:
+python main.py
